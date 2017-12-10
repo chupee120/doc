@@ -1,0 +1,5 @@
+First of all you need to have the same installation setup on the server where Jenkins is running:
+
+Node.js and npm
+Firefox installed (as it will be used by the Selenium Server by default)
+(Nightwatch, selenium standalone server etc…will be delivered by our setup)
