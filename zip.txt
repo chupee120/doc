@@ -1,0 +1,3 @@
+tar -czvf - ../voxxed.pptx | split -b 10m - archive.tar.gz
+cat archive.tar.* | tar -xzvf -
+
